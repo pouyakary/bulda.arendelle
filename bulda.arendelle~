@@ -21,7 +21,7 @@
    [ @WhileSign = 1 ,
    
       // asking for the code:
-         ( code , "----λ---- ")
+         ( code , "----λ----")
       
       // calculating the size
          ( size , Floor ( Log10 ( @code ) ) + 1 )
